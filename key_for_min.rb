@@ -11,6 +11,5 @@ def key_for_min_value(name_hash)
       min_key = key
     end
   end
-    learn submit
-    return min_key
+  return min_key
 end
